@@ -195,3 +195,4 @@ echo $PUBLIC_URL
 # Environment variables configured
 Redis database connected
 Force deployment
+Fix environment variables
