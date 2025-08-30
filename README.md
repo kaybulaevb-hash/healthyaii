@@ -194,3 +194,4 @@ echo $PUBLIC_URL
 **Удачного использования! 🎉**
 # Environment variables configured
 Redis database connected
+Force deployment
