@@ -192,3 +192,4 @@ echo $PUBLIC_URL
 ---
 
 **Удачного использования! 🎉**
+# Environment variables configured
